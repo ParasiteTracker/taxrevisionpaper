@@ -1,6 +1,6 @@
 title: feedback loop
 
-Specimen->Curator: collects
+Specimen->Curator: collected by
 Researcher->Curator: request specimen
 Researcher->Paper: publishes
 Researcher->Curator: notifies of usage
