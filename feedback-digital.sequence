@@ -1,0 +1,9 @@
+title: feedback loop digital
+
+Specimen->Curator: collects
+Curator->Data Portal: publish catalogue
+Researcher->Data Aggregator: find specimen
+Researcher->Curator: request specimen
+Researcher->Paper: publishes
+Researcher->Curator: ?? notifies of usage
+Curator->Stakeholder: report on usage

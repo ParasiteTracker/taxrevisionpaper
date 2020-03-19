@@ -1,0 +1,13 @@
+title: Collection Management
+
+Specimen->Curator: digitized by
+Curator-->Curator: create record
+Curator->Digital Catalogue: add record
+Curator->Digital Catalogue: update record
+Curator->Digital Catalogue: ... record
+Curator->Digital Catalogue: publish
+Digital Catalogue->DwCA version: create
+DwCA version-->Digital Catalogue:
+Digital Catalogue->Data Portal: upload
+Data Aggregator->Data Portal: index
+Data Portal-->Data Aggregator: download DwCA version 

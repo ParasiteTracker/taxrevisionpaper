@@ -1,0 +1,7 @@
+title: feedback loop
+
+Specimen->Curator: collects
+Researcher->Curator: request specimen
+Researcher->Paper: publishes
+Researcher->Curator: notifies of usage
+Curator->Stakeholder: report on usage

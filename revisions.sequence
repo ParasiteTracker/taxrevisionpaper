@@ -1,0 +1,10 @@
+title: Taxonomic Revision
+
+Researcher->Data Aggregator: query 
+Data Aggregator-->Researcher: specimen list
+Researcher->Researcher: curate list
+Researcher->Curator: request specimen
+Researcher->Researcher: use specimen
+Researcher->Paper: describe taxonomic revision
+Researcher->Paper: add specimen references
+Researcher->Journal: publish taxonomic revision
